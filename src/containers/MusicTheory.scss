@@ -1,0 +1,19 @@
+.music-theory {
+  padding: 100px 20px;
+  min-height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+
+  .keys {
+    width: 200px;
+    height: 50px;
+  }
+
+  .number {
+    font-size: 300px;
+    // border: 1px solid red;
+    padding: 0;
+    margin: 0;
+  }
+}
